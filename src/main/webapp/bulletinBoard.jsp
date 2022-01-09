@@ -10,13 +10,19 @@
 	<jsp:include page="header.jsp"></jsp:include>
   
   <body>
+  
+  	<div class="container">
+		  <h1>게시판</h1>
+		  <hr class="short-hr">
+	
+	 </div>
+    <div class="add">
+    	<button type="button" class="btn btn-outline-primary btn-lg">Write</button>
+    </div>
    
-
-	  <div class="container">
-      
-		
-	  </div>
-    
+	
+	 
+	  
 
     <!-- Optional JavaScript; choose one of the two! -->
 

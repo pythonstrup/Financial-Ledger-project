@@ -10,12 +10,40 @@
 	<jsp:include page="header.jsp"></jsp:include>
   
   <body>
-   
+      <div class="container">
+		<h1>나만의 가계부를 사용하기!</h1>
+        <hr class="short-hr"><br>
+        <img src="images/돼지.jpg" alt="pigImage" width="640" height="542">
+        <h2>당신의 자산을 관리하세요!</h2><br>
+        <img src="images/계산.jpg" alt="calculatorImage" width="640" height="542">
+        <h2>자동 계산 시스템</h2><br>
+        <img src="images/캘린더.png" alt="calendarImage" width="640" height="542">
+        <h2>자동 날짜 입력 시스템</h2><br>
+        <p></p>
 
-	  <div class="container">
-      
-		
-	  </div>
+        </div>
+
+	 </div>
+	 
+	 <div class="container">
+        <h1>자주하는 질문</h1> 
+		<hr class="short-hr">
+        <div class="alert alert-primary" role="alert">
+            <h3>Q1. Blah Blah Blah</h3>
+            <h4>A1. Blah Blah Blah</h4> 
+        </div>
+
+        <div class="alert alert-primary" role="alert">
+        	<h3>Q2. Blah Blah Blah</h3>
+        	<h4>A2. Blah Blah Blah</h4>  
+        </div>
+
+        <div class="alert alert-primary" role="alert">
+        	<h3>Q3. Blah Blah Blah</h3>  
+        	<h4>A3. Blah Blah Blah</h4>
+        </div>
+
+	 </div>
     
 
     <!-- Optional JavaScript; choose one of the two! -->
