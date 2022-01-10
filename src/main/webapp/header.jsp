@@ -9,10 +9,14 @@
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-	  <link rel="stylesheet" href="css/style.css">
+    
+	<!-- my css -->
+	<link rel="stylesheet" href="css/style.css">
+    <!--  google font -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Gothic+A1:wght@200;300;400;700&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/a9fbaf535b.js" crossorigin="anonymous"></script>
     <title>나만의 가계부</title>
   </head>
 
@@ -48,10 +52,11 @@
               </li>
             </ul>
             <form class="d-flex"  action="#">
-              <input class="form-control me-2" type="text" placeholder="아이디" aria-label="Search">
-              <input class="form-control me-2" type="password" placeholder="패스워드" aria-label="Search">
+              <input class="form-control me-2" type="text" placeholder="아이디" aria-label="Search">
+              <input class="form-control me-2" type="password" placeholder="패스워드" aria-label="Search">
               <button class="btn btn-outline-success" type="submit">Login</button>
             </form>
+            <div class="nav-item"><a class="nav-link" href="signup.jsp">회원가입</a></div>
           </div>
         </div>
       </nav>

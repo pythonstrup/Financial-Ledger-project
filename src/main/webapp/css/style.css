@@ -1,5 +1,9 @@
+html {
+    height: 100%;
+}
 
 body {
+	height: 100%;
     text-align: center;
 }
 
@@ -54,6 +58,7 @@ img {
 	font-family: "Gothic A1", sans-serif;
     font-size: 30;
 	font-weight: 700;
+	padding:5rem;
 }
 
 .footer-link {
@@ -61,4 +66,17 @@ img {
     font-size: 30;
 	font-weight: 700;
     padding: 20px;
+}
+
+.feature-box {
+    padding: 7%;
+}
+
+.icons {
+    color: #396EB0;
+    margin-bottom: 1rem;
+}
+
+.icons:hover {
+    color: gold;
 }

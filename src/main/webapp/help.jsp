@@ -11,7 +11,7 @@
   
   <body>
       <div class="container">
-		<h1>나만의 가계부를 사용하기!</h1>
+		  <h1>나만의 가계부를 사용하기!</h1>
         <hr class="short-hr"><br>
         <img src="images/돼지.jpg" alt="pigImage" width="640" height="542">
         <h2>당신의 자산을 관리하세요!</h2><br>
@@ -21,9 +21,8 @@
         <h2>자동 날짜 입력 시스템</h2><br>
         <p></p>
 
-        </div>
+      </div>
 
-	 </div>
 	 
 	 <div class="container">
         <h1>자주하는 질문</h1> 
